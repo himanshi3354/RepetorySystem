@@ -21,6 +21,7 @@ const Doctors = () => {
     <div className="absolute top-4 left-4 flex space-x-4 text-white text-lg">
       <a href="/" className="hover:underline text-blue-800">Home</a> /
       <a href="/about" className="hover:underline text-blue-800">About Us</a> /
+      
       <span className="text-blue-800">Doctors</span>
      
     </div>
